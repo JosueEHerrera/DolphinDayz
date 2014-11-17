@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 588b5100ff52f4f07a7cf03241e9b74e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sprite1: {instanceID: 0}
+  - sprite2: {instanceID: 0}
+  - touchButton: {fileID: 8300000, guid: 9b3d0642c99184a4fa6d86eaecd4b21c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
